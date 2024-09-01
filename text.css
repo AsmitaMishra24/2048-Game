@@ -32,6 +32,19 @@ hr{
 
 }
 
+.tile {
+    width: 90px;
+    height: 90px;
+    border: 5px solid #403e40;
+
+    font-size: 40px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
 .x2{
 
     background-color:#e38be7;
